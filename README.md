@@ -16,25 +16,5 @@ After installing dotnet you can install dotnet-script from the command line with
    * `dotnet-script script.csx`
    * `dotnet-script ./folder/script.csx`
   
- 888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
- ### Another deeper heading
-  
- Paragraphs are separated
- by a blank line.
- 
- Leave 2 spaces at the end of a line to do a  
- line break
- ~~strikethrough~~ .
- 
- <<<   No space between ] and (  >>>
-
- Numbered list:
- 
-   1. apples
-   2. oranges
-   3. pears
- 
- The rain---not the reign---in
- Spain.
 
 
